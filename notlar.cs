@@ -1,3 +1,13 @@
+//Form Yüklendiğinde 30 elemanlı (0-100) notlar adlı bir dizi oluşturulacaktır.
+//Buton1: Oluşturulan diziyi listboxa aktar
+//Buton2: 60’dan küçük notları listele
+//Buton3: 70-85 arası notları listele
+//Buton4: Tüm notların ortalamasını label aktar
+//Buton5: En yüksek notu label aktar
+//Buton6:Geçen öğrenci sayısını labelda göster
+//Buton7:Başarı yüzdesini labelda göster
+
+
 int[] notlar = newint[30];
 private void Form1_Load(objectsender, EventArgs e)
 {
