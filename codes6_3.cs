@@ -1,3 +1,10 @@
+//Struct-Class karşılaştırması
+//1.Struct Belleğin Stack kısmında tutulur. Class Belleğin Heap kısmında tutulur.
+//2.Struct değer türündedir. Class referans türündedir.
+//3.Struct daha az maliyetli ve erişim hızı yüksektir.
+//4.Struct kalıtımla türetilemez. Class kalıtımla türetilebilir.
+
+
 struct kitap
 {
    public string kitapadi;
