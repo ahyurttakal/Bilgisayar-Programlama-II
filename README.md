@@ -1,4 +1,4 @@
-# Bilgisayar-Programlama-II
+# Bilgisayar-Programlama-II*
 
 Hafta 1: Console-WinForm Uygulamaları, Visual Studio Giriş
 
@@ -17,3 +17,5 @@ Hafta 7: Vize Hazırlık
 Hafta 8: VİZE
 
 Hafta 9: Collection 
+
+*İçerik sürekli güncellenmektedir.
