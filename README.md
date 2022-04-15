@@ -1,4 +1,4 @@
-# Bilgisayar-Programlama-II*
+﻿# Bilgisayar-Programlama-II*
 
 >Amaç-Hedef
 
@@ -24,7 +24,7 @@ Hafta 4: Diziler
 
 Hafta 5: Fonksiyonlar
 
-Hafta 6: Timer, ProgressBar, Exception, Enum, Struct, Class
+Hafta 6: Exception, Enum, Struct, Class
 
 Hafta 7: Vize Hazırlık
 
