@@ -30,6 +30,8 @@ Hafta 7: Vize Hazırlık
 
 Hafta 8: VİZE
 
-Hafta 9: Collection 
+Hafta 9: Collection (List,ArrayList,Dictionary,Hashtable)
+
+Hafta 10: Interface
 
 *İçerik sürekli güncellenmektedir.
