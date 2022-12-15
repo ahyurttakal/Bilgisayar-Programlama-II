@@ -10,7 +10,7 @@ Temel hedef görsel arayüz üzerinde kodlama becerisi kazandırmaktır. Derste 
 
 >Değerlendirme:
 
-Vize*40% + Final*60%
+Vize*30% + Final*50% + Proje*20%
 
 >Kurulması gereken programlar: 
 1. Visual Studio Community (https://visualstudio.microsoft.com/tr/vs/community/)
