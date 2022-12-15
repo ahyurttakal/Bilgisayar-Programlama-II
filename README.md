@@ -1,4 +1,8 @@
 ﻿# Bilgisayar-Programlama-II*
+ 
+>Ön Koşul:
+
+Bu dersi alabilmek için Bilgisayar Programlama-I dersinden başarılı olmak gerekmektedir.
 
 >Amaç-Hedef:
 
