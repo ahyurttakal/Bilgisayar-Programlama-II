@@ -30,9 +30,7 @@ Hafta 5: Event-Driven Programming
 
 Hafta 6: Arrays
 
-Hafta 7: Vizeye Hazırlık
-
-Hafta 8: VİZE
+Hafta 7: VİZE
 
 Hafta 8: Math Kütüphanesi
 
